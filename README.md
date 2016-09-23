@@ -6,3 +6,5 @@ I turned my girlfriend's image into featuremap of convolutional neural network u
 Then I performed topological data analysis on thoose activations using mapper http://danifold.net/mapper/ toolkit 
 
 ![alt text](index.png "")
+
+![alt text](index0.png "")
