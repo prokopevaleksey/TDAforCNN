@@ -3,7 +3,7 @@ this script performs Topological Data Analysis on Convolutional Neural Network f
 
 I turned my girlfriend's images into featuremaps
 
-![alt text](sonya_conv1/sonya_conv1_1_feature_10.png "")
++![Screenshot](sonya0_conv1_1/sonya0_conv1_1.gif)
 
 Then I performed topological data analysis on thoose activations 
 
